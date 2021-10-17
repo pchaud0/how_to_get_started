@@ -846,6 +846,9 @@ overflow: visible !important;
     opacity: 0;
     transition: all 300ms ease;
 }
+.text-muted{
+    color: black!important;
+}
 
 .product_slider_container:hover .product_slider_nav{
     visibility: visible;
